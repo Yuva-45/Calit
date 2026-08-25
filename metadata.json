@@ -1,0 +1,6 @@
+{
+  "name": "CALIT",
+  "description": "A premium, all-in-one daily utility platform offering free calculators, converters, date/time tools, and text utilities built for speed and precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
